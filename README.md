@@ -6,7 +6,6 @@
 
 🌱 My most recent project optimizes the preprocessing step of machine learning pipelines, specifically for healthcare applications
 
-
-
 [![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniapalamand)](https://github.com/anuraghazra/github-readme-stats)
 
+## Languages: Python, Java, C, C++, Julia, HTML, CSS
