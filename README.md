@@ -2,7 +2,7 @@
 
 ⚡ I study Electrical Engineering and Computer Science at Washington University in St. Louis
 
-🔭 I’m interested in machine learning, data analysis, and healthcare
+🔭 I’m interested in machine learning and data analysis to build pipelines that help people!
 
 🌱 My most recent project optimizes the preprocessing step of machine learning pipelines, specifically for healthcare applications
 
